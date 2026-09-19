@@ -1,0 +1,17 @@
+{
+  "base_url": "http://luwwyxyzstoreprivate.pteroq.xyz:4879",
+  "firebase": {
+    "apiKey": "AIzaSyBRsOATFHKfD6r-CJB0O1UsPjr5icLjgWw",
+    "appId": "1:363878670681:android:f1c065c4a55b0d5b512c48",
+    "messagingSenderId": "363878670681",
+    "projectId": "notif-3b442",
+    "storageBucket": "notif-3b442.firebasestorage.app"
+  },
+  "update": {
+    "enabled": true,
+    "version": "2.0.0",
+    "apk_url": "LINK_APK_BARU",
+    "force": false,
+    "changelog": "Versi terbaru aplikasi."
+  }
+}
