@@ -1,11 +1,11 @@
 {
   "base_url": "http://luwwyxyzstoreprivate.pteroq.xyz:4879",
   "firebase": {
-    "apiKey": "AIzaSyBRsOATFHKfD6r-CJB0O1UsPjr5icLjgWw",
-    "appId": "1:363878670681:android:f1c065c4a55b0d5b512c48",
-    "messagingSenderId": "363878670681",
-    "projectId": "notif-3b442",
-    "storageBucket": "notif-3b442.firebasestorage.app"
+    "apiKey": "AIzaSyB-cViUM9mka8ZNX0YN78ri8u3a_wHoPvw",
+    "appId": "1:576891694826:android:a10749f5bd5098bd4c7193",
+    "messagingSenderId": "576891694826",
+    "projectId": "rey-executor",
+    "storageBucket": "rey-executor.firebasestorage.app"
   },
   "update": {
     "enabled": true,
